@@ -81,15 +81,7 @@ export default function HVY() {
     return (
         <>
             <div id="version">
-                <span>v HVY.2</span>
-                <a id="fork-me" href="https://github.com/theblang/fab-sealed-generator">
-                    <img src={githubMark} />
-                </a>
-            </div>
-            <div id="assumptions">
-                <div>
-                    <b>Assumptions</b>
-                </div>
+                <span>V1.0</span>
                 <ul>
                     <li>5 single-class slots</li>
                     <li>3 wedge slots</li>

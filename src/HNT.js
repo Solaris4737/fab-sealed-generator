@@ -129,18 +129,7 @@ export default function HNT() {
     return (
         <>
             <div id="version">
-                <span>v HNT.2</span>
-                <a id="fork-me" href="https://github.com/theblang/fab-sealed-generator">
-                    <img src={githubMark} />
-                </a>
-            </div>
-            <div id="assumptions">
-                <div>
-                    <b>
-                        Assumptions based on{' '}
-                        <a href="https://www.youtube.com/watch?v=HCKLBXimmfY&t=28s">Naib's video</a>
-                    </b>
-                </div>
+                <span>V1.0</span>
                 <ul>
                     <li>2 Assassin only</li>
                     <li>2 Ninja only</li>
